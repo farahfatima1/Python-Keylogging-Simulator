@@ -6,7 +6,7 @@ A Python-based keylogging simulator developed for controlled cybersecurity educa
 
 
 
-\## Features
+\ Features
 
 \- Tkinter graphical interface
 
@@ -20,23 +20,23 @@ A Python-based keylogging simulator developed for controlled cybersecurity educa
 
 
 
-\## Screenshots
+\ Screenshots
 
 
 
-\### Key Logging Simulator
+\ Key Logging Simulator
 
 !\[Simulator](screenshots/simulator.png)
 
 
 
-\### Analysis Report
+\ Analysis Report
 
 !\[Analysis Report](screenshots/analysis\_report.png)
 
 
 
-\## Technologies
+\ Technologies
 
 \- Python
 
@@ -72,7 +72,7 @@ python analyzer.py
 
 
 
-\## Ethical Use
+\ Ethical Use
 
 
 
